@@ -3,7 +3,6 @@
 
 
 - ## 📦 Features
-- 
 - ✅ **Real-time object detection** using YOLOv8 for fast and accurate visual perception
 - 🧍 **Person Registration Identification** to ensure consistent tracking of the target
 - 📡 **RGB-D depth sampling** with precise 3D localization
